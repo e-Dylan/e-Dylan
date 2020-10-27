@@ -1,12 +1,12 @@
 ### Hi there, I'm Dylan. 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm a Software Engineer, and Student!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Finish all of my apps
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact:
 
 ### Spotify Playing 🎧
 
