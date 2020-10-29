@@ -1,7 +1,7 @@
-## Dylan Smith 👋
-### Software Engineer
-
+## Dylan Smith 👋			
+Software Engineer
 [![Website](https://img.shields.io/website?label=DylanSmith&style=for-the-badge&url=https%3A%2F%dylansmith.vercel.app)](https://dylansmith.vercel.app)
+
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
@@ -29,6 +29,7 @@ Learning about everything software and hardware engineering through self-driven 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Dylan)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<br />
 <br />
 <br />
 <br />
