@@ -5,6 +5,12 @@
 ## I'm a Software Engineer and Student.
 Learning about everything software and hardware engineering through self-driven projects and endless research.
 
+### Portfolio
+
+### Learn About Me
+
+### What I'm Building
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
