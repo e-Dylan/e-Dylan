@@ -1,5 +1,4 @@
-## Dylan Smith 👋			
-Software Engineer
+## Dylan Smith 👋<br />Software Engineer
 [![Website](https://img.shields.io/website?label=DylanSmith&style=for-the-badge&url=https%3A%2F%dylansmith.vercel.app)](https://dylansmith.vercel.app)
 
 
