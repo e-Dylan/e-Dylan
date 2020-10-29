@@ -14,11 +14,6 @@ Learning about everything software and hardware engineering through self-driven 
 
 ### Connect with me:
 
----
-<img align="left" alt="e-Dylan Github Stats" src="https://github-readme-stats.vercel.app/api?username=e-Dylan&show_icons=true&hide_border=true&hide=stars,contribs&theme=radical" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Dylan)](https://github.com/anuraghazra/github-readme-stats)
-
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -26,6 +21,11 @@ Learning about everything software and hardware engineering through self-driven 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
+<img align="left" alt="e-Dylan Github Stats" src="https://github-readme-stats.vercel.app/api?username=e-Dylan&show_icons=true&hide_border=true&hide=stars,contribs&theme=radical" />
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Dylan)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Languages and Tools:
 
