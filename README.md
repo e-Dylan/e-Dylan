@@ -2,7 +2,8 @@
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Software Engineer, and Student
+## I'm a Software Engineer and Student.
+Learning about everything software and hardware engineering through self-driven projects and endless research.
 
 ### Connect with me:
 
@@ -39,5 +40,5 @@
 [website]: https://github.com/e-Dylan
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
+[instagram]: https://instagram.com/dy.lansmith
 [linkedin]: https://linkedin.com/in/e-Dylan
