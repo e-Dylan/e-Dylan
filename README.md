@@ -9,10 +9,11 @@ Dylan Smith 👋<br/>
 <!-- ## I'm a Software Engineer and Student.
 Learning about everything software and hardware engineering through self-driven projects and endless research. -->
 
-### Portfolio
 <a href="https://dylansmith.vercel.app/">
     <img src="https://github.com/e-Dylan/personal-website/blob/master/demo/website-logo.gif" alt="Website Logo" align="right" title="Logo" height="200" width="300" />
 </a>
+
+### Portfolio
 
 Find my portfolio and much more about me on my [website](https://dylansmith.vercel.app).
 
