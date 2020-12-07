@@ -10,13 +10,11 @@ Dylan Smith 👋<br/>
 Learning about everything software and hardware engineering through self-driven projects and endless research. -->
 
 ### Portfolio
-<div>
 <a href="https://dylansmith.vercel.app/">
-    <img src="https://github.com/e-Dylan/personal-website/blob/master/demo/website-logo.gif" alt="Website Logo" title="Logo" align="right" height="200" width="300" />
+    <img src="https://github.com/e-Dylan/personal-website/blob/master/demo/website-logo.gif" alt="Website Logo" title="Logo" height="200" width="300" />
 </a>
 
 Find my portfolio and much more about me on my [website](https://dylansmith.vercel.app):
-</div>
 
 ### Learn About Me
 
