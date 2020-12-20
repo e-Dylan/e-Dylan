@@ -24,7 +24,7 @@ Find my portfolio and much more about me on my [website](https://dylansmith.verc
 My newest app: [Waygo](https://waygo.vercel.app)
 Go star my [repo!](https//github.com/e-Dylan/waygo)
 
-Deep learning GAN models: [Face generation and animation with Python](https://github.com/e-Dylan/gan_faceanimator)
+Deep learning GAN models: [Face generation and animation with Python](https://github.com/e-Dylan/gan_faceanimator).
 
 ### Connect with me:
 
