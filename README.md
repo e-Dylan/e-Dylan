@@ -13,10 +13,6 @@ Dylan Smith 👋<br/>
 <!-- ## I'm a Software Engineer and Student.
 Learning about everything software and hardware engineering through self-driven projects and endless research. -->
 
-### Portfolio
-
-Find my portfolio and much more about me on my [website](https://dylansmith.vercel.app).
-
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -24,8 +20,6 @@ Find my portfolio and much more about me on my [website](https://dylansmith.verc
 [<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ---
 <img align="left" alt="e-Dylan Github Stats" src="https://github-readme-stats.vercel.app/api?username=e-Dylan&show_icons=true&hide_border=true&hide=stars,contribs&theme=radical" />
