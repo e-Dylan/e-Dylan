@@ -17,14 +17,6 @@ Learning about everything software and hardware engineering through self-driven 
 
 Find my portfolio and much more about me on my [website](https://dylansmith.vercel.app).
 
-### Learn About Me
-
-### What I'm Building
-
-My newest app: [Waygo](https://waygo.vercel.app), register for free - open to ideas for new features.
-
-Deep learning GAN models: [Face generation and animation with Python](https://github.com/e-Dylan/gan_faceanimator).
-
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
